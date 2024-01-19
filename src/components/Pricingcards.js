@@ -9,7 +9,7 @@ const Pricingcards = () => {
         <div className="card">
             <h3>-Basic-</h3>
             <span className="bar"></span>
-            <p className="btc">$ 100</p>
+            <p className="btc">rupees 100</p>
             <p>-3 days-</p>
             <p>-3 pages-</p>
             <p>-Featured-</p>
