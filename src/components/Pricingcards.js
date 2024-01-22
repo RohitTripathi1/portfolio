@@ -7,11 +7,11 @@ const Pricingcards = () => {
     <div className="pricing">
       <div className="card-container">
         <div className="card">
-            <h3>-Basic-</h3>
+            <h3>-Freelancing Projects-</h3>
             <span className="bar"></span>
-            <p className="btc">rupees 100</p>
-            <p>-3 days-</p>
-            <p>-3 pages-</p>
+            <p className="btc">Rs 15000</p>
+            <p>-30 days-</p>
+            <p>-3 Websites-</p>
             <p>-Featured-</p>
             <p>-Responsive design-</p>
             <Link to="/contact" className="btn">Purchase Now</Link>

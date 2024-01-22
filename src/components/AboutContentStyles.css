@@ -31,9 +31,17 @@ position: relative;
 align-items: center;
 text-align: center;
 }
-.right .img{
+.right .img
+{
 max-width: 90%;
 border: 1px solid #333;
+}
+.right .top
+{
+  grid-column: 1 /span 8;  
+  grid-row: 1;
+  padding-top: 20%;
+  z-index: 6;
 }
 .right .bottom
 {
